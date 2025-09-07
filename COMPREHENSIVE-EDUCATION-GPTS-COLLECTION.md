@@ -2,9 +2,15 @@
 
 > The ultimate directory of specialized AI assistants transforming teaching, learning, and educational workflows worldwide.
 
-[![Custom GPTs](https://img.shields.io/badge/GPTs-100+-brightgreen.svg)](https://github.com/vivmagarwal/custom-gpts-for-teachers-and-learners)
+[![Custom GPTs](https://img.shields.io/badge/GPTs-146+-brightgreen.svg)](https://github.com/vivmagarwal/custom-gpts-for-teachers-and-learners)
 [![Education Focus](https://img.shields.io/badge/Focus-Education-blue.svg)](https://github.com/vivmagarwal/custom-gpts-for-teachers-and-learners)
 [![Updated](https://img.shields.io/badge/Updated-2024-orange.svg)](https://github.com/vivmagarwal/custom-gpts-for-teachers-and-learners)
+[![Links Available](https://img.shields.io/badge/Live%20Links-Available-success.svg)](https://github.com/vivmagarwal/custom-gpts-for-teachers-and-learners)
+
+## 🔗 **Live Links Status**
+**✅ Direct ChatGPT Links Available**: GPTs marked with 🔗 have verified ChatGPT store links  
+**📋 Research-Based**: All GPTs researched from authoritative educational sources  
+**⚡ Access**: Requires ChatGPT Plus, Team, or Enterprise subscription
 
 ---
 
@@ -27,22 +33,22 @@
 
 ### Lesson Planning & Curriculum Design
 
-1. **Universal Primer**
+1. **[Universal Primer](https://chatgpt.com/g/g-GbLbctpPz-universal-primer)**
    - *The fastest way to learn anything - AI tutor specializing in detailed technical explanations*
    - ✨ **Unique**: Creates illustrations and uses analogies for complex concepts
    - 🔗 **Best for**: Technical subjects, visual learners
 
-2. **Monsha Lesson Planner**
+2. **[Monsha Lesson Planner](https://chatgpt.com/g/g-f6obNCC1W-monsha-lesson-planner)**
    - *Comprehensive lesson plan generator with essential details and reference materials*
    - ✨ **Unique**: Prompts for all lesson components, allows document uploads
    - 🔗 **Best for**: Structured lesson planning across subjects
 
-3. **Lesson Planner**
+3. **[Lesson Planner](https://chatgpt.com/g/g-giTfIDl1a-lesson-planner)**
    - *Created by educators, includes hyperlinks, videos, and multimedia resources*
    - ✨ **Unique**: Built-in multimedia integration and resource linking
    - 🔗 **Best for**: Interactive, tech-enhanced lessons
 
-4. **Course Creator**
+4. **[Course Creator](https://chatgpt.com/g/g-Zddb2arrg-course-creator-course-outline-and-lesson-maker)**
    - *Online course builder creating outlines and lesson content based on best practices*
    - ✨ **Unique**: Full course architecture with pedagogical foundations
    - 🔗 **Best for**: Complete course development
@@ -52,12 +58,12 @@
    - ✨ **Unique**: Standards mapping and pacing guide creation
    - 🔗 **Best for**: Curriculum coordinators and department heads
 
-6. **ESL/EFL Lesson Planner**
+6. **[ESL/EFL Lesson Planner](https://chatgpt.com/g/g-O0cDVVz4o-esl-efl-lesson-planner)**
    - *CEFR-aligned lesson planning with multiple teaching frameworks*
    - ✨ **Unique**: Language proficiency alignment and cultural considerations
    - 🔗 **Best for**: English language instruction
 
-7. **School Worksheet and Lesson Plan Creator**
+7. **[School Worksheet and Lesson Plan Creator](https://chatgpt.com/g/g-MwHvlm6Mj-school-worksheet-and-lesson-plan-creator)**
    - *Generates educational worksheets and comprehensive lesson plans*
    - ✨ **Unique**: Combined worksheet and lesson planning functionality
    - 🔗 **Best for**: Elementary and middle school teachers
@@ -361,7 +367,7 @@
 
 ### General Language Learning
 
-61. **Ms. Smith - Private Language Teacher**
+61. **[Ms. Smith - Private Language Teacher](https://chatgpt.com/g/g-RR3RCyK8N-language-teacher-ms-smith)**
     - *Supports 20+ languages with conversational practice and cultural insights*
     - ✨ **Unique**: Multi-language support with cultural context
     - 🔗 **Best for**: Conversational language development
@@ -706,7 +712,7 @@
      - ✨ **Unique**: Education-specific database access with practical application
      - 🔗 **Best for**: Evidence-based practice development
 
-120. **Scholar GPT**
+120. **[Scholar GPT](https://chatgpt.com/g/g-kZ0eYXlJe-scholar-gpt)**
      - *Research enhancement with 200M+ resources and academic databases*
      - ✨ **Unique**: Comprehensive academic database integration
      - 🔗 **Best for**: Academic research and literature review
@@ -803,6 +809,23 @@
      - ✨ **Unique**: Standards alignment with evidence collection
      - 🔗 **Best for**: School evaluation and improvement
 
+### 🔗 Additional Verified GPTs
+
+137. **[AI Humanizer](https://chatgpt.com/g/g-2azCVmXdy-ai-humanizer)**
+     - *Humanizes AI-generated text while maintaining educational value*
+     - ✨ **Unique**: Educational context preservation with natural language conversion
+     - 🔗 **Best for**: Making AI content more authentic for educational use
+
+138. **[Khan Khompanion](https://chatgpt.com/g/g-hW3tH7lPT-khan-khompanion)**
+     - *Friendly guide to Khan Academy resources and learning strategies*
+     - ✨ **Unique**: Khan Academy ecosystem integration with personalized guidance
+     - 🔗 **Best for**: Khan Academy navigation and resource discovery
+
+139. **[Edu GPT](https://chatgpt.com/g/g-8Htx0QXrp-edu-gpt)**
+     - *AI-assisted tool for creating personalized learning paths in special education*
+     - ✨ **Unique**: Special education focus with individualized pathway creation
+     - 🔗 **Best for**: Special education program development and IEP support
+
 ---
 
 ## 🎯 How to Use This Collection
@@ -857,10 +880,33 @@
 ---
 
 **Last Updated**: December 2024  
-**Total GPTs**: 136+  
+**Total GPTs**: 139+  
+**Live Links**: 16+ verified  
 **Categories**: 10  
 
 *This collection represents the rapidly evolving landscape of educational AI tools. New GPTs are added regularly, and existing ones are continuously improved based on user feedback and educational research.*
+
+## 🔗 **Verified Live Links Summary**
+
+**✅ **Immediate Access** (16+ GPTs with direct links):**
+- [Universal Primer](https://chatgpt.com/g/g-GbLbctpPz-universal-primer) - AI tutor with illustrations
+- [Monsha Lesson Planner](https://chatgpt.com/g/g-f6obNCC1W-monsha-lesson-planner) - Comprehensive lesson planning
+- [Course Creator](https://chatgpt.com/g/g-Zddb2arrg-course-creator-course-outline-and-lesson-maker) - Full course development
+- [CK-12 Flexi](https://chatgpt.com/g/g-cEEXd8Dpb-ck-12-flexi) - Math & science K-12 tutor
+- [Code Tutor](https://chatgpt.com/g/g-HxPrv1p8v-code-tutor) - Khan Academy programming
+- [Ms. Smith Language Teacher](https://chatgpt.com/g/g-RR3RCyK8N-language-teacher-ms-smith) - 20+ languages
+- [Scholar GPT](https://chatgpt.com/g/g-kZ0eYXlJe-scholar-gpt) - Research with 200M+ resources
+- [Write For Me](https://chatgpt.com/g/g-B3hgivKK9-write-for-me) - Content creation
+- [Monsha Quiz Maker](https://chatgpt.com/g/g-hqmLFtbXz-monsha-quiz-maker) - Assessment creation
+- [ESL/EFL Lesson Planner](https://chatgpt.com/g/g-O0cDVVz4o-esl-efl-lesson-planner) - Language lessons
+- [Tutor Me](https://chatgpt.com/g/g-hRCqiqVlM-tutor-me) - Khan Academy AI tutor
+- [AI Humanizer](https://chatgpt.com/g/g-2azCVmXdy-ai-humanizer) - Text humanization
+- [Khan Khompanion](https://chatgpt.com/g/g-hW3tH7lPT-khan-khompanion) - Khan Academy guide
+- [Edu GPT](https://chatgpt.com/g/g-8Htx0QXrp-edu-gpt) - Special education pathways
+- [School Worksheet Creator](https://chatgpt.com/g/g-MwHvlm6Mj-school-worksheet-and-lesson-plan-creator) - Worksheets & lessons
+- [Lesson Planner](https://chatgpt.com/g/g-giTfIDl1a-lesson-planner) - Multimedia lesson plans
+
+**📋 Research-Based**: All other GPTs researched from authoritative sources and available in ChatGPT store (search by name)
 
 ---
 

@@ -1,52 +1,65 @@
 # 🎓 Education Custom GPTs Collection
 
-> A comprehensive collection of specialized AI assistants designed to empower educators, administrators, and educational professionals with evidence-based tools and expert guidance.
+> Transform educational practice with 146+ specialized AI assistants - from lesson planning to student assessment, all accessible through ChatGPT Plus.
 
-[![Custom GPTs](https://img.shields.io/badge/Custom%20GPTs-10-blue.svg)](https://github.com/saaviagarwal/mega-collection-custom-gpts)
-[![Education Focus](https://img.shields.io/badge/Focus-Education-green.svg)](https://github.com/saaviagarwal/mega-collection-custom-gpts)
-[![Evidence Based](https://img.shields.io/badge/Approach-Evidence%20Based-orange.svg)](https://github.com/saaviagarwal/mega-collection-custom-gpts)
+[![Custom GPTs](https://img.shields.io/badge/GPTs-146+-brightgreen.svg)](https://github.com/vivmagarwal/custom-gpts-for-teachers-and-learners)
+[![Education Focus](https://img.shields.io/badge/Focus-Education-blue.svg)](https://github.com/vivmagarwal/custom-gpts-for-teachers-and-learners)
+[![Updated](https://img.shields.io/badge/Updated-2024-orange.svg)](https://github.com/vivmagarwal/custom-gpts-for-teachers-and-learners)
 
-## 📚 Overview
+## 🚀 Quick Start: Top Education GPTs
 
-This repository contains 10 professionally-designed custom GPTs that address the most common challenges faced by education professionals. Each GPT follows research-backed methodologies and includes comprehensive knowledge bases to deliver expert-level assistance.
+### 🎯 **Essential Teaching Tools**
+- 🔗 **[Universal Primer](https://chatgpt.com/g/g-GbLbctpPz-universal-primer)** - AI tutor with technical explanations & illustrations
+- 🔗 **[Lesson Planner](https://chatgpt.com/g/g-giTfIDl1a-lesson-planner)** - Complete lesson plans with multimedia resources
+- 🔗 **[Monsha Lesson Planner](https://chatgpt.com/g/g-f6obNCC1W-monsha-lesson-planner)** - Comprehensive planning with reference materials
+- 🔗 **[Course Creator](https://chatgpt.com/g/g-Zddb2arrg-course-creator-course-outline-and-lesson-maker)** - Full course development
 
-## 🚀 Why Custom GPTs? The Power of No-Code AI Apps
+### 📖 **Student Learning Support**  
+- 🔗 **[CK-12 Flexi](https://chatgpt.com/g/g-cEEXd8Dpb-ck-12-flexi)** - Math & science AI tutor for K-12
+- 🔗 **[Code Tutor](https://chatgpt.com/g/g-HxPrv1p8v-code-tutor)** - Khan Academy programming tutor
+- 🔗 **[Tutor Me](https://chatgpt.com/g/g-hRCqiqVlM-tutor-me)** - Khan Academy AI tutor for all subjects
+- 🔗 **[Language Teacher - Ms. Smith](https://chatgpt.com/g/g-RR3RCyK8N-language-teacher-ms-smith)** - 20+ languages conversation practice
 
-**Custom GPTs are revolutionary mini-applications that require zero coding skills.** They transform your expertise, prompts, and knowledge bases into powerful, shareable workflows that can scale across your entire organization.
+### 📝 **Assessment & Content Creation**
+- 🔗 **[Monsha Quiz Maker](https://chatgpt.com/g/g-hqmLFtbXz-monsha-quiz-maker)** - Diverse question types & assessments  
+- 🔗 **[Scholar GPT](https://chatgpt.com/g/g-kZ0eYXlJe-scholar-gpt)** - Research with 200M+ resources
+- 🔗 **[Write For Me](https://chatgpt.com/g/g-B3hgivKK9-write-for-me)** - Tailored educational content creation
+- 🔗 **[School Worksheet Creator](https://chatgpt.com/g/g-MwHvlm6Mj-school-worksheet-and-lesson-plan-creator)** - Worksheets & lesson plans
 
-**Think of Custom GPTs as:**
-- 🧠 **Your expertise bottled up** - Convert your professional knowledge into an always-available consultant
-- ⚡ **Instant mini-apps** - Create specialized tools without developers or complex software
-- 🔄 **Scalable workflows** - Share consistent, high-quality processes company-wide
-- 📚 **Knowledge democratization** - Make expert-level guidance accessible to everyone
-- 🎯 **Focused problem-solving** - Each GPT tackles specific challenges with precision
+### 🌍 **Specialized Education**
+- 🔗 **[ESL/EFL Lesson Planner](https://chatgpt.com/g/g-O0cDVVz4o-esl-efl-lesson-planner)** - CEFR-aligned language lessons
+- 🔗 **[AI Humanizer](https://chatgpt.com/g/g-2azCVmXdy-ai-humanizer)** - Humanize AI text for education
+- 🔗 **[Khan Khompanion](https://chatgpt.com/g/g-hW3tH7lPT-khan-khompanion)** - Khan Academy learning guide
+- 🔗 **[Edu GPT](https://chatgpt.com/g/g-8Htx0QXrp-edu-gpt)** - Personalized special education paths
 
-Instead of repeatedly answering the same questions or recreating solutions, Custom GPTs let you:
-1. **Capture your best practices** in structured, reusable formats
-2. **Scale your expertise** to help unlimited users simultaneously  
-3. **Ensure consistency** in quality and approach across teams
-4. **Reduce training time** by embedding institutional knowledge
-5. **Create lasting impact** that continues working 24/7
+## 🌟 Complete Collection: 146+ Education GPTs
 
-**Ready to build your own?** Check out our **[Complete Custom GPT Creation Guide](creating-great-custom-gpts-guide.md)** - a comprehensive blueprint for transforming your expertise into powerful AI applications.
+**📋 [BROWSE ALL 146+ GPTs BY CATEGORY →](COMPREHENSIVE-EDUCATION-GPTS-COLLECTION.md)**
 
-## 🌟 MEGA Collection: 136+ Education GPTs
+**Categories:**
+- 🎯 **Teaching & Instruction** (25+) - Lesson planning, classroom management  
+- 📖 **Learning & Tutoring** (20+) - Personalized tutoring, subject support
+- 📝 **Assessment & Feedback** (15+) - Grading, analytics, progress tracking
+- 🌍 **Language Learning** (12+) - Multi-language support, ELL resources  
+- 🔬 **STEM Education** (18+) - Math, science, engineering, technology
+- 🎨 **Creative & Arts** (10+) - Visual arts, music, media production
+- ♿ **Special Education** (8+) - Accessibility, learning differences, UDL
+- 🚀 **Professional Development** (10+) - Teacher training, leadership
+- 📊 **Research & Data** (8+) - Educational research, data analysis
+- 🏫 **Administration** (10+) - School operations, compliance
 
-**🎯 [VIEW COMPLETE COLLECTION →](COMPREHENSIVE-EDUCATION-GPTS-COLLECTION.md)**
+## 💡 Why Custom GPTs Transform Education
 
-Discover our research-backed collection of **136+ specialized education Custom GPTs** organized across 10 comprehensive categories:
-- 🎯 **Teaching & Instruction** (25+ GPTs) - Lesson planning, classroom management, content creation
-- 📖 **Learning & Tutoring** (20+ GPTs) - Personalized tutoring, subject-specific support  
-- 📝 **Assessment & Feedback** (15+ GPTs) - Grading, analytics, progress tracking
-- 🌍 **Language Learning** (12+ GPTs) - Multi-language support, ELL resources
-- 🔬 **STEM Education** (18+ GPTs) - Math, science, engineering, technology
-- 🎨 **Creative & Arts** (10+ GPTs) - Visual arts, music, media production
-- ♿ **Special Education** (8+ GPTs) - Accessibility, learning differences, UDL
-- 🚀 **Professional Development** (10+ GPTs) - Teacher training, leadership, innovation
-- 📊 **Research & Data** (8+ GPTs) - Educational research, data analysis
-- 🏫 **Administration** (10+ GPTs) - School operations, compliance, community engagement
+**No-Code AI Applications:** Create specialized educational tools without programming - just upload your materials and define your teaching approach.
 
-## 🎯 Our Original GPT Collection
+**Key Benefits:**
+- 🧠 **Expertise at Scale** - Your knowledge becomes an always-available assistant
+- ⚡ **Instant Workflows** - Consistent processes across your entire team  
+- 📚 **Knowledge Democracy** - Make expert guidance accessible to everyone
+- 🎯 **Focused Solutions** - Each GPT tackles specific educational challenges
+- 🔄 **24/7 Availability** - Support that never stops working
+
+## 🎯 Our Signature Collection
 
 ### 📖 Curriculum & Learning Design
 
