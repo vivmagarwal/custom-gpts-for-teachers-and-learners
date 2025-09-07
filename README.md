@@ -58,7 +58,7 @@
 - Uses structured 5-step methodology (Research → Clarify → Framework → Design → Refine)
 - Supports standards alignment and diverse learning needs
 
-🔗 **[Try It Live](https://chatgpt.com/g/g-68bb9f343ae88191b784d5f93557c3d8-dynamic-curriculum-architect)** | **[View Prompts & Knowledge](education-custom-gpts/01-dynamic-curriculum-architect/)**
+🔗 **[Try It Live](https://chatgpt.com/g/g-68bb9f343ae88191b784d5f93557c3d8-dynamic-curriculum-architect)** | **[View Prompts & Knowledge](prompts-and-knowledge-source/01-dynamic-curriculum-architect/)**
 
 #### 2. Personalized Learning Path Designer
 **Creates tailored learning journeys that adapt to individual student needs and preferences**
@@ -66,7 +66,7 @@
 - Integrates multiple learning theories and neuroscience research
 - Supports adaptive learning technologies
 
-🔗 **[Try It Live](https://chatgpt.com/g/g-68bbb7462b28819181274d14efb4db5f-personalized-learning-path-designer)** | **[View Prompts & Knowledge](education-custom-gpts/02-personalized-learning-path-designer/)**
+🔗 **[Try It Live](https://chatgpt.com/g/g-68bbb7462b28819181274d14efb4db5f-personalized-learning-path-designer)** | **[View Prompts & Knowledge](prompts-and-knowledge-source/02-personalized-learning-path-designer/)**
 
 #### 3. Differentiated Lesson Planner
 **Specialist in creating inclusive lessons that accommodate diverse learning needs**
@@ -74,7 +74,7 @@
 - Creates culturally responsive differentiation strategies
 - Provides multiple pathways to learning objectives
 
-🔗 **[Try It Live](https://chatgpt.com/g/g-68bbbfc02d0c8191823c1326d276ca40-differentiated-lesson-planner)** | **[View Prompts & Knowledge](education-custom-gpts/07-differentiated-lesson-planner/)**
+🔗 **[Try It Live](https://chatgpt.com/g/g-68bbbfc02d0c8191823c1326d276ca40-differentiated-lesson-planner)** | **[View Prompts & Knowledge](prompts-and-knowledge-source/07-differentiated-lesson-planner/)**
 
 ### 📊 **Assessment & Feedback**
 
@@ -84,7 +84,7 @@
 - Supports formative and summative evaluation strategies
 - Integrates AI-powered assessment best practices
 
-🔗 **[Try It Live](https://chatgpt.com/g/g-68bbb7ea9af88191b236cdd57e5e2a21-assessment-feedback-generator)** | **[View Prompts & Knowledge](education-custom-gpts/03-assessment-feedback-generator/)**
+🔗 **[Try It Live](https://chatgpt.com/g/g-68bbb7ea9af88191b236cdd57e5e2a21-assessment-feedback-generator)** | **[View Prompts & Knowledge](prompts-and-knowledge-source/03-assessment-feedback-generator/)**
 
 ### 👥 **Student Success & Engagement**
 
@@ -94,7 +94,7 @@
 - Implements evidence-based engagement strategies
 - Supports diverse learning preferences and cultural backgrounds
 
-🔗 **[Try It Live](https://chatgpt.com/g/g-68bbb95acdf48191b1305e89f242b153-student-engagement-specialist)** | **[View Prompts & Knowledge](education-custom-gpts/05-student-engagement-specialist/)**
+🔗 **[Try It Live](https://chatgpt.com/g/g-68bbb95acdf48191b1305e89f242b153-student-engagement-specialist)** | **[View Prompts & Knowledge](prompts-and-knowledge-source/05-student-engagement-specialist/)**
 
 #### 6. SEL & Wellbeing Supporter
 **Social-emotional learning specialist focused on student mental health and wellbeing**
@@ -102,7 +102,7 @@
 - Provides trauma-informed educational strategies
 - Supports whole-child development approaches
 
-🔗 **[Try It Live](https://chatgpt.com/g/g-68bbc1881f8481918147fcc607dcff5e-sel-wellbeing-supporter)** | **[View Prompts & Knowledge](education-custom-gpts/10-sel-wellbeing-supporter/)**
+🔗 **[Try It Live](https://chatgpt.com/g/g-68bbc1881f8481918147fcc607dcff5e-sel-wellbeing-supporter)** | **[View Prompts & Knowledge](prompts-and-knowledge-source/10-sel-wellbeing-supporter/)**
 
 ### 🚀 **Professional Development**
 
@@ -112,7 +112,7 @@
 - Supports reflection and evidence-based practice
 - Guides career progression and skill development
 
-🔗 **[Try It Live](https://chatgpt.com/g/g-68bbb8bf04648191b2fca9db72a70124-professional-development-coach)** | **[View Prompts & Knowledge](education-custom-gpts/04-professional-development-coach/)**
+🔗 **[Try It Live](https://chatgpt.com/g/g-68bbb8bf04648191b2fca9db72a70124-professional-development-coach)** | **[View Prompts & Knowledge](prompts-and-knowledge-source/04-professional-development-coach/)**
 
 #### 8. Research to Practice Bridge
 **Connects educational research with practical classroom applications**
@@ -120,7 +120,7 @@
 - Provides evidence-based implementation guidance
 - Supports data-driven educational decisions
 
-🔗 **[Try It Live](https://chatgpt.com/g/g-68bbc06513e481919e23f450b6b1f6b2-research-to-practice-bridge)** | **[View Prompts & Knowledge](education-custom-gpts/08-research-to-practice-bridge/)**
+🔗 **[Try It Live](https://chatgpt.com/g/g-68bbc06513e481919e23f450b6b1f6b2-research-to-practice-bridge)** | **[View Prompts & Knowledge](prompts-and-knowledge-source/08-research-to-practice-bridge/)**
 
 ### 🏢 **Administration & Communication**
 
@@ -130,7 +130,7 @@
 - Ensures FERPA compliance and data privacy
 - Integrates with educational technology systems
 
-🔗 **[Try It Live](https://chatgpt.com/g/g-68bbb9ef6e888191bfd1c2f6342e0425-administrative-assistant-pro)** | **[View Prompts & Knowledge](education-custom-gpts/06-administrative-assistant-pro/)**
+🔗 **[Try It Live](https://chatgpt.com/g/g-68bbb9ef6e888191bfd1c2f6342e0425-administrative-assistant-pro)** | **[View Prompts & Knowledge](prompts-and-knowledge-source/06-administrative-assistant-pro/)**
 
 #### 10. Parent Communication Facilitator
 **Expert in building effective home-school partnerships**
@@ -138,7 +138,7 @@
 - Facilitates meaningful parent engagement
 - Supports conflict resolution and collaborative problem-solving
 
-🔗 **[Try It Live](https://chatgpt.com/g/g-68bbc10f8750819185c52406dfc83c27-parent-communication-facilitator)** | **[View Prompts & Knowledge](education-custom-gpts/09-parent-communication-facilitator/)**
+🔗 **[Try It Live](https://chatgpt.com/g/g-68bbc10f8750819185c52406dfc83c27-parent-communication-facilitator)** | **[View Prompts & Knowledge](prompts-and-knowledge-source/09-parent-communication-facilitator/)**
 
 ---
 
